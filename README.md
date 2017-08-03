@@ -1,3 +1,3 @@
-# FFmepg
+# FFmpeg
 
-## [ffmepg参数](ffmepg参数.md)
+## [ffmpeg参数](ffmpeg参数.md)
